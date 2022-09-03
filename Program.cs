@@ -109,10 +109,10 @@
 // }
 
 
-System.Console.WriteLine("Введите число");
+// System.Console.WriteLine("Введите число");
 
-int a = Convert.ToInt32(Console.ReadLine());
+// int a = Convert.ToInt32(Console.ReadLine());
 
-int lastDigit = a % 3;
+// int lastDigit = a % 3;
 
-System.Console.WriteLine(lastDigit);
+// System.Console.WriteLine(lastDigit);
